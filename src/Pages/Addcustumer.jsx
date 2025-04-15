@@ -61,7 +61,7 @@ const Addcustumer = () => {
   return (
     <div className="edit-customer-container">
       <div className="edit-customer-header">
-        <h2>Add New Custumer</h2>
+        <h2>Add News Custumer</h2>
       </div>
 
       <form onSubmit={handleSubmit} className="edit-customer-form">
