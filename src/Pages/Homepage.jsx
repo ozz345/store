@@ -12,7 +12,7 @@ import {
   BarElement
 } from 'chart.js';
 import { Line, Bar } from 'react-chartjs-2';
-import Custumersview from '../comps/CustumersView';
+import Custumersview from '../comps/Custumersview';
 import Custumersviewforhomepage from '../comps/Custumersviewforhomepage';
 import Prodpreviewforhome from '../comps/Prodpreviewforhome';
 import { useNavigate } from 'react-router-dom';
