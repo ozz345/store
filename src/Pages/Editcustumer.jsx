@@ -16,7 +16,6 @@ import {
   writeBatch,
   where,
 } from 'firebase/firestore';
-import Custumersview from '../comps/CustumersView';
 import Productforedit from '../comps/Productforedit';
 
 
