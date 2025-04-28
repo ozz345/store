@@ -2,7 +2,7 @@ import React from 'react'
 import ComboboxProd from '../comps/ComboboxProd'
 import Custumersviewchildfortable from '../comps/Custumersviewchildfortable';
 import Custumersviewforedit from '../comps/Custumersviewforedit';
-import Custumersview from '../comps/CustumersView';
+import Custumersview from '../comps/Custumersview';
 import { useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
 import Breadcrumbs from '../comps/Breadcrumbs';
